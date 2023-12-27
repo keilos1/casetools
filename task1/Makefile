@@ -43,3 +43,4 @@ clean_all:
 
 .DEFAULT:
 	echo Error!
+Makefile для первой лабы
